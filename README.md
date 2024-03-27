@@ -16,6 +16,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
+
 ### No momento atual estou estudando front- end, no futuro serei um programador. Passo hora pesquisando documentário de pessoas bem renomadas.</br>
  
 ### E-mail de contato: thiago_sales2006@hotmail.com
